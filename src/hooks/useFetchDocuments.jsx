@@ -1,0 +1,3 @@
+const useFetchDocuments = () => {
+    return {};
+}
